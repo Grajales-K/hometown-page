@@ -5,15 +5,21 @@ gallery = [
   'images/Botanico.jpg', 
   'images/Deboh.jpg', 
   'images/Palacio.jpg', 
+  'images/sol1.jpg',
   'images/PlazaToros.jpg', 
   'images/retiro.webp',
-  'images/retiro.avif',
+  'images/madrid.avif',
   'images/Cristal.jpg',
   'images/teleferico.webp',
   'images/pantano.jpg',
   'images/cristalNoche.webp',
   'images/madrid1.avif',
-  
+  'images/madrid6.avif',
+  'images/cibeles.webp',
+  'images/palacio2.jpg',
+  'images/sabatini.jpg',
+  'images/sol1.jpg',
+  'images/toledo.avif'
 ];
 
 let element_img_container = document.getElementById('img-container');
